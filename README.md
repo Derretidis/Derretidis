@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Rafael 
-- 👀 I’m interested in SQL, Python
-- 🌱 I’m currently learning Python, SQL SERVE
-- 💞️ I’m looking to collaborate on community project with my data skills
-- 📫 How to reach me Wpp = 55 31 9944817-95 e-mail= Rafael.vinicius.barcelos@gmail.com
+- 👋 Oi, eu sou o Rafael
+- 👀 Sou estudante e apaixonado por T.I (Curso Analise e desenvolvimento de sistemas)
+- 🌱 Possuo conhecimento certificado em SQL, bancos de dados relacionais e nãao relacionais, e atulamente estou aprendendo Python
+- 💞️ Estou buscando adiquirir conhecimento para dar inicio a uma carreira na área de Eng. de Dados.
+- 📫 meus contatos e-mail= Rafael.vinicius.barcelos@gmail.com
 
 
